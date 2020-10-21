@@ -1,2 +1,2 @@
 # libacc
-this code is subject to change and permissions
+I am a budding web and android developer
